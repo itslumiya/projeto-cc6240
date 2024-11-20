@@ -1,0 +1,7 @@
+Projeto banco de dados
+alunos
+professores
+cursos
+departamentos
+disciplinas
+matriz curricular
